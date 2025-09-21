@@ -1,0 +1,11 @@
+{
+  "name": "hackii-app",
+  "version": "2.0.0",
+  "description": "Hackii RNG + Wall Clock app with preview/final",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Hackii",
+  "license": "MIT"
+}
