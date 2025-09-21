@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #0c1a2a;
+  color: white;
+}
+h1 {
+  color: #ffcc00;
+}
+#preview {
+  font-size: 1.5em;
+  margin: 10px;
+  color: #66ccff;
+}
+#final {
+  font-size: 2em;
+  margin: 20px;
+  color: #ff6666;
+}
